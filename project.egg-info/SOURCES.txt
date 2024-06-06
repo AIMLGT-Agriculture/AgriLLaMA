@@ -1,0 +1,10 @@
+setup.py
+llama3/__init__.py
+llama3/finetune.py
+llama3/finetune_mhop.py
+llama3/gen_mhop_qns.py
+llama3/utils.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/top_level.txt
